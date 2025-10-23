@@ -1,5 +1,6 @@
-body {background-color: rgb(248, 218, 239);}
+body {background-color: rgb(248, 218, 239);text-align: center;}
 h1 {color:#F00793; text-decoration-line: underline;}
 h2 {color: #F00793;text-decoration-line: underline;}
 body {font-size: larger;}
 .si {text-decoration-line: underline;}
+img {width: 500px; height: auto;}
